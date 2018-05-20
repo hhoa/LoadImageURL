@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoadImageURL</string>
+    <string name="OK">OK</string>
+    <string name="err_input">Please input valid URL for downloading</string>
+    <string name="touch_to_rotate">Touch picture to rotate more 90 degree</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="err_back">Do not have picture to return"</string>
+    <string name="mobile">You are using mobile data</string>
+    <string name="wifi">You are using WIFI</string>
+    <string name="err_connectivity">Please check your internet connection</string>
+    <string name="try_again">Try again</string>
+    <string name="input_url">Input a valid image URL here</string>
+    <string name="err_save">Do not have picture to save</string>
+    <string name="permission_save_image">We need permission to save your picture</string>
+    <string name="save_image_successully">Save your picture successfully in %s folder</string>
+</resources>
